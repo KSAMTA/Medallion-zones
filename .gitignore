@@ -1,0 +1,12 @@
+venv/
+.env
+__pycache__/
+*.parquet
+*.crc
+_SUCCESS
+output/
+spark-warehouse/
+metastore_db/
+lake/
+Untitled Diagram - draw.io_files/
+Untitled Diagram - draw.io.html
